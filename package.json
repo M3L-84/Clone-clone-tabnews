@@ -1,0 +1,25 @@
+{
+  "name": "clone-clone-tabnews",
+  "version": "1.0.0",
+  "description": "Aprendendo a programar 1% - Review",
+  "homepage": "https://github.com/M3L-84/Clone-clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/M3L-84/Clone-clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M3L-84/Clone-clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
